@@ -69,7 +69,7 @@
 </script>
 
 <div class="container mx-auto">
-	<div class="mt-6 grid grid-cols-3 gap-6">
+	<div class="mt-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 		{#each items as item}
 			<a
 				href={item.url}
