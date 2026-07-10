@@ -1,5 +1,15 @@
 <script lang="ts">
 	const items = [
+        {
+			url: 'https://github.com/sirilerklab/svcgeyser',
+			title: 'svcgeyser',
+			description: '🎙️ Enables Bedrock players to use Simple Voice Chat on PaperMC servers via Geyser & Floodgate.'
+		},
+        {
+			url: 'https://github.com/sirilerklab/vite-plugin-openobserve-sourcemap',
+			title: 'vite-plugin-openobserve-sourcemap',
+			description: 'Vite plugin for auto-upload sourcemap into openobserve'
+		},
 		{
 			url: 'https://github.com/mrwan2546/tools',
 			title: 'tools',
