@@ -11,7 +11,7 @@
 	<footer class="sticky bottom-0">
 		<div class="flex flex-row justify-center gap-4">
 			<a
-				href="https://github.com/mrwan2546"
+				href="https://github.com/sirilerklab"
 				target="_blank"
 				aria-label="GitHub"
 				class="slide-in-blurred-bottom duration-300 hover:scale-[1.1]"
